@@ -6,5 +6,6 @@ Just download the executable from the [releases](https://github.com/BerriUQAM/LR
 
 You can also use it in a command line: `"LRC Shifter.[exe|ahk]" file_path offset_in_ms`, for example `"LRC Shifter.exe" "My love.lrc" -750`
 
+![2025-01-01_15-04-56](https://github.com/user-attachments/assets/9817aab8-528f-46d9-a025-000401ed23b9)
 
 Executable's icon provided by [Icons8](https://icons8.com/).
